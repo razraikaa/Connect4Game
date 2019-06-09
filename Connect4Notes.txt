@@ -1,0 +1,12 @@
+Connect 4 To-Do List
+> Make a board
+  > Learn how to make a board
+  > Board is GUI
+
+> Learn how to make an AI
+  > AI should have different levels of intelligence
+    > Easy, medium, hard
+    > Bot should sleep for a few seconds before making its turn
+
+> Show possible moves to user with blue dots
+  > Every time it is the users turn, show dots for all possible moves
